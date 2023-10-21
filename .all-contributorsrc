@@ -2469,6 +2469,33 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "TheBearodactyl",
+      "name": "The Bearodactyl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114454115?v=4",
+      "profile": "https://github.com/TheBearodactyl",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "markgreene74",
+      "name": "markgreene74",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18945890?v=4",
+      "profile": "https://github.com/markgreene74",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "VeeDeltaVee",
+      "name": "Versha Dhankar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45564258?v=4",
+      "profile": "https://github.com/VeeDeltaVee",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 8,
