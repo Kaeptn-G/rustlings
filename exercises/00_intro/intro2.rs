@@ -6,6 +6,5 @@
 // hint.
 
 fn main() {
-    let world = "World";
-    println!("Hello {world}!");
+    printline!("Hello there!")
 }
